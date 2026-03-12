@@ -1,0 +1,12 @@
+name: Security Code Review
+description: Combined security analysis + code review + compliance check workflow
+skills:
+  - code-review
+  - agency-security-engineer
+  - agency-compliance-auditor
+workflow: |
+  1. Start with `agency-security-engineer` — scan for OWASP Top 10 vulnerabilities
+  2. Apply `code-review` checklist — correctness, performance, maintainability
+  3. Finish with `agency-compliance-auditor` — verify regulatory requirements
+
+  Focus on: input validation, auth/authz, SQL injection, XSS, secrets in code.

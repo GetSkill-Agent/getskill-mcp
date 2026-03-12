@@ -1,0 +1,12 @@
+name: Content Marketing
+description: Content creation + SEO + social media strategy combo
+skills:
+  - agency-content-creator
+  - agency-seo-specialist
+  - agency-social-media-strategist
+  - copywriting
+workflow: |
+  1. Use `agency-content-creator` to draft content strategy and pieces
+  2. Optimize with `agency-seo-specialist` for search visibility
+  3. Adapt for channels with `agency-social-media-strategist`
+  4. Polish copy with `copywriting` skill for tone and persuasion

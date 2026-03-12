@@ -1,0 +1,14 @@
+name: Fullstack Development
+description: Frontend + backend + testing skills for full-stack web development
+skills:
+  - agency-frontend-developer
+  - agency-backend-architect
+  - clean-code
+  - jest-unit-test
+  - code-review
+workflow: |
+  1. Use `agency-backend-architect` for API design and data modeling
+  2. Use `agency-frontend-developer` for UI implementation
+  3. Apply `clean-code` standards throughout
+  4. Write tests with `jest-unit-test` patterns
+  5. Self-review with `code-review` before completion
